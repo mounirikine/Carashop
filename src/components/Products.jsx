@@ -70,6 +70,7 @@ function Products() {
         <i class="ri-star-fill"></i>
         <i class="ri-star-fill"></i>
         <i class="ri-star-fill"></i>
+        <i class="ri-star-fill"></i>
         <i class="ri-star-half-fill"></i>
         </span>
       </div>
